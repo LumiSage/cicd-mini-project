@@ -6,3 +6,6 @@ https://shorturl.at/EtJV6
 
 
 I shortened the site link to https://shorturl.at/35zWi
+
+
+from https://lumisage.github.io/cicd-mini-project/
